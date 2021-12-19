@@ -1,4 +1,5 @@
-package com.example.demo7.pro;
+package com.example.demospringbotapp.pro;
+
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

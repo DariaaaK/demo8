@@ -1,4 +1,5 @@
-package com.example.demo7.pro;
+package com.example.demospringbotapp.pro;
+
 
 import javax.persistence.*;
 
@@ -45,5 +46,4 @@ public class Employee {
     public void setEmail(String email) {
         this.email = email;
     }
-
 }
